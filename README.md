@@ -26,7 +26,7 @@ Mi trabajo combina programación, análisis técnico y uso estratégico de servi
 ## Tecnologías y Herramientas
 
 **Lenguajes de Programación**  
-Python · Java · C  
+Python · Java · C · TypeScript
 
 **Frameworks Backend**  
 Django · FastAPI · Spring  
@@ -49,9 +49,9 @@ API de OpenAI
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mattiaricc05&show_icons=false&include_all_commits=true&count_private=true&hide_border=true&title_color=1a1a1a&text_color=3d3d3d">
+<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=mattiaricc05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight">
 
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mattiaricc05&layout=compact&hide_border=true&title_color=1a1a1a&text_color=3d3d3d">
+<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mattiaricc05&layout=compact&hide_border=true&theme=tokyonight">
 
 </div>
 
